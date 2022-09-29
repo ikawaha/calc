@@ -1,4 +1,4 @@
-module calc
+module github.com/ikawaha/calc
 
 go 1.16
 
